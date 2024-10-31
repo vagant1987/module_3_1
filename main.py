@@ -24,9 +24,8 @@ def is_contains(string, list_to_search):
 
 print(string_info('Capybara'))
 print(string_info('Armageddon'))
-print(is_contains('cube', ['recycling', 'cyclic', 'sphere']))
-print(is_contains('GaZEL', ['List', 'Snow', 'Gazelist', 'gAzeL']))
-
+print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN']))
+print(is_contains('aZa', ['LsD', 'Snow', 'Azazelo', 'AguLe']))
 print(calls)
 
 
